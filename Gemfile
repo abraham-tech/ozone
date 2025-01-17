@@ -16,6 +16,11 @@ gem "turbo-rails"
 gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
+gem 'bootstrap', '~> 4.1', '>= 4.1.3'
+gem 'jquery-rails'
+gem 'cssbundling-rails'
+
+
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
