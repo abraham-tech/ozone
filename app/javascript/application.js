@@ -4,3 +4,6 @@ import "controllers"
 import "bootstrap"
 import "@popperjs/core"
 import "../stylesheets/application" // Load custom styles
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets
